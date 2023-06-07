@@ -1,2 +1,2 @@
-access_key = "AKIA34DKFXR7ILNJCM6C"
-secret_key = "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"
+access_key = "AKIAZQWIAASQHVN7NE7I"
+secret_key = "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"
