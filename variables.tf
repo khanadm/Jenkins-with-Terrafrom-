@@ -14,7 +14,7 @@ variable "instance_type" {
 variable "ami_id" {
         description = "The AMI to use"
         type = list
-        default = ["ami-053b0d53c279acc90", "ami-0715c1897453cabd1"]
+        default = ["ami-053b0d53c279acc90", "ami-026ebd4cfe2c043b2"]
 }
 
 variable "number_of_instances" {
